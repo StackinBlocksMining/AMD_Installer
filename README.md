@@ -22,8 +22,8 @@ Please note Drivers with the 18.04 suffix require an OS upgrade
 5) 17.30-458935-ubuntu-16.04   14) 18.40-673869-ubuntu-16.04
 6) 17.30-465504-ubuntu-16.04   15) 18.40-697810-ubuntu-18.04
 7) 17.40-492261-ubuntu-16.04   16) 18.50-725072-ubuntu-18.04
-8) 17.40-483984-ubuntu-16.04   17) Quit
-9) 17.50-511655-ubuntu-16.04
+8) 17.40-483984-ubuntu-16.04   17) 19.10-785425-ubuntu-18.04
+9) 17.50-511655-ubuntu-16.04   18) Quit
 Please enter your choice Drivers:
 ```
 
@@ -36,7 +36,7 @@ Further documentation can be found on the HiveOS forum
  
 For a guided installation enter the following 3 commands
 ```
-wget https://raw.githubusercontent.com/CryptoLuigi/AMD_installer/master/amd_install.sh
+wget https://raw.githubusercontent.com/StackinBlocksMining/AMD_installer/master/amd_install.sh
 
 chmod +x ./amd_install.sh
 
